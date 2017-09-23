@@ -35,4 +35,13 @@ public class MainActivity extends AppCompatActivity {
                                     Toast.LENGTH_SHORT).show());
         });
     }
+
+//    @Test
+//    public void testGuGu() {
+//        int dan = 3;
+//        for(int i = 1; i <= 9; i++) {
+//            System.out.println(dan + " * " + i + " = " + (dan * i));
+//        }
+//        assertTrue(true);
+//    }
 }
